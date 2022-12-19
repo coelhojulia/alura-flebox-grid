@@ -1,5 +1,9 @@
 body {
     background-color: #1D232A;
-    font-family: 'open sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: white;
+}
+
+.cabecalho {
+    display: flex;
 }
